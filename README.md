@@ -5,9 +5,9 @@
 
 - All source code is in the `src` folder.  
 - There are five folders inside `src`, one for each challenge:  
-  - `challenge1` — contains files for the first challenge (currently only this folder has files).  
-  - `challenge2`  
-  - `challenge3`  
+  - `challenge1` - DONE ✅  
+  - `challenge2` - DONE ✅
+  - `challenge3` - DONE ✅
   - `challenge4`  
   - `challenge5`  
 
