@@ -24,9 +24,9 @@
   - `challenge17`- DONE ✅ 
   - `challenge18`- DONE ✅
   - `challenge19`- DONE ✅  
-  - `challenge20`  
-  - `challenge21`
-  - `challenge22`  
+  - `challenge20`- DONE ✅  
+  - `challenge21`- DONE ✅
+  - `challenge22`- DONE ✅  
   
 
 ## Notes
