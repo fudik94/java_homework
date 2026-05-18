@@ -16,14 +16,14 @@
   - `challenge9` - DONE ✅
   - `challenge10`- DONE ✅
   - `challenge11`- DONE ✅  
-  - `challenge12`
-  - `challenge13`
-  - `challenge14`  
-  - `challenge15`  
-  - `challenge16`   
-  - `challenge17` 
-  - `challenge18`
-  - `challenge19`  
+  - `challenge12`- DONE ✅
+  - `challenge13`- DONE ✅
+  - `challenge14`- DONE ✅  
+  - `challenge15`- DONE ✅  
+  - `challenge16`- DONE ✅   
+  - `challenge17`- DONE ✅ 
+  - `challenge18`- DONE ✅
+  - `challenge19`- DONE ✅  
   - `challenge20`  
   - `challenge21`
   - `challenge22`  
