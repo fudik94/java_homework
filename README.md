@@ -26,7 +26,12 @@
   - `challenge19`- DONE ✅  
   - `challenge20`- DONE ✅  
   - `challenge21`- DONE ✅
-  - `challenge22`- DONE ✅  
+  - `challenge22`- DONE ✅
+  - `challenge23`- DONE ✅
+  - `challenge24`- DONE ✅  
+  - `challenge25`- DONE ✅  
+  - `challenge26`- DONE ✅
+    
   
 
 ## Notes
