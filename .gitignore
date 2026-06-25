@@ -32,3 +32,4 @@ bin/
 ### Project ###
 CLAUDE.md
 .claude/
+*.class
